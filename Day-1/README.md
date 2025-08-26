@@ -5,3 +5,5 @@ To accommodate the backup agent tool's specifications, the system admin team at 
 - Create a user named `john` with a non-interactive shell on **App Server 3**.
 
 > **Note:** You can find the infrastructure details by clicking on the **Details of all Users and Servers** button on the top-right section of the page.
+
+[Infrastructure Details](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus#infrastructure-details)
